@@ -1,6 +1,6 @@
 <html>
 <head><title>PAGINA PESSOAL DE RAYANE</title> <style type="text/css" id="operaUserStyle"></style></head>
-<body background="bg.AVIF" bgproperties=fixed src="https://github.com/Ray1232004/site/blob/index/bg.avif" data-hpc="true" class="Box-sc-g0xbh4-0kzRgrl">
+<body background="bg.AVIF" bgproperties=fixed src="https://github.com/Ray1232004/site/blob/mae/bg.avif" data-hpc="true" class="Box-sc-g0xbh4-0kzRgrl">
 <h1 align=center>MEU CURRÍCULO</h1>
 <CENTER><IMG SRC="https://github.com/Ray1232004/site/blob/main/02.jpeg" WIDTH=12% alt="02.jpeg" data-hpc="true" class="Box-sc-g0xbh4-0kzRgrl"><style"border-radius:30px;"></CENTER>
 
